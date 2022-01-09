@@ -124,6 +124,10 @@ section h3{
     margin-bottom: 10vh;
 }
 
+.map img{
+    align-items: center;
+}
+
 .order{
     text-align: center;
     color: #666;
