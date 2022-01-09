@@ -80,6 +80,7 @@ header ul li a:hover{
 }
 
 .banner h2{
+    text-align: center;
     background-color: #036353;
     color: #ffffff;
     z-index: 1;
